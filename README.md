@@ -10,3 +10,4 @@
 
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/anikin02?theme=auto&font=source_code_pro&extension=null)
+![CodeWars Stats](https://www.codewars.com/users/anikin02/badges/large)
